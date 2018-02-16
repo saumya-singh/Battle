@@ -1,5 +1,5 @@
 # Battle
 
-A Text-Based Game.
-Written in Python3.
+A Text-Based Game.\n
+Written in Python3.\n
 To play, execute main.py
